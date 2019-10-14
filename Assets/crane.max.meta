@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 188943b0970aa93479efd8e3ea744961
+timeCreated: 1485729974
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: boom1-2-solid1
+    100002: boom1-2-solid2
+    100004: boom1-2-solid3
+    100006: boom1-2-solid4
+    100008: boom2-2-solid1
+    100010: boom3-2-solid1
+    100012: boom4-1-solid1
+    100014: boom4-1-solid2
+    100016: //RootNode
+    100018: kabel part-1-solid4
+    100020: kopstuk-2-solid1
+    100022: opbouw draaibaar-1-solid1
+    100024: opbouw draaibaar-1-solid2
+    100026: opbouw draaibaar-1-solid3
+    100028: opbouw draaibaar-1-solid4
+    100030: opbouw draaibaar-1-solid5
+    100032: opbouw draaibaar-1-solid6
+    100034: opbouw draaibaar-1-solid7
+    100036: verreiker.SLDPRT 1
+    400000: boom1-2-solid1
+    400002: boom1-2-solid2
+    400004: boom1-2-solid3
+    400006: boom1-2-solid4
+    400008: boom2-2-solid1
+    400010: boom3-2-solid1
+    400012: boom4-1-solid1
+    400014: boom4-1-solid2
+    400016: //RootNode
+    400018: kabel part-1-solid4
+    400020: kopstuk-2-solid1
+    400022: opbouw draaibaar-1-solid1
+    400024: opbouw draaibaar-1-solid2
+    400026: opbouw draaibaar-1-solid3
+    400028: opbouw draaibaar-1-solid4
+    400030: opbouw draaibaar-1-solid5
+    400032: opbouw draaibaar-1-solid6
+    400034: opbouw draaibaar-1-solid7
+    400036: verreiker.SLDPRT 1
+    2300000: boom1-2-solid1
+    2300002: boom1-2-solid2
+    2300004: boom1-2-solid3
+    2300006: boom1-2-solid4
+    2300008: boom2-2-solid1
+    2300010: boom3-2-solid1
+    2300012: boom4-1-solid1
+    2300014: boom4-1-solid2
+    2300016: kabel part-1-solid4
+    2300018: kopstuk-2-solid1
+    2300020: opbouw draaibaar-1-solid1
+    2300022: opbouw draaibaar-1-solid2
+    2300024: opbouw draaibaar-1-solid3
+    2300026: opbouw draaibaar-1-solid4
+    2300028: opbouw draaibaar-1-solid5
+    2300030: opbouw draaibaar-1-solid6
+    2300032: opbouw draaibaar-1-solid7
+    3300000: boom1-2-solid1
+    3300002: boom1-2-solid2
+    3300004: boom1-2-solid3
+    3300006: boom1-2-solid4
+    3300008: boom2-2-solid1
+    3300010: boom3-2-solid1
+    3300012: boom4-1-solid1
+    3300014: boom4-1-solid2
+    3300016: kabel part-1-solid4
+    3300018: kopstuk-2-solid1
+    3300020: opbouw draaibaar-1-solid1
+    3300022: opbouw draaibaar-1-solid2
+    3300024: opbouw draaibaar-1-solid3
+    3300026: opbouw draaibaar-1-solid4
+    3300028: opbouw draaibaar-1-solid5
+    3300030: opbouw draaibaar-1-solid6
+    3300032: opbouw draaibaar-1-solid7
+    4300000: opbouw draaibaar-1-solid1
+    4300002: opbouw draaibaar-1-solid2
+    4300004: opbouw draaibaar-1-solid3
+    4300006: opbouw draaibaar-1-solid4
+    4300008: opbouw draaibaar-1-solid5
+    4300010: opbouw draaibaar-1-solid6
+    4300012: opbouw draaibaar-1-solid7
+    4300014: boom1-2-solid1
+    4300016: boom1-2-solid2
+    4300018: boom1-2-solid3
+    4300020: boom1-2-solid4
+    4300022: boom2-2-solid1
+    4300024: boom3-2-solid1
+    4300026: boom4-1-solid1
+    4300028: boom4-1-solid2
+    4300030: kopstuk-2-solid1
+    4300032: kabel part-1-solid4
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

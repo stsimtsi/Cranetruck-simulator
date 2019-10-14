@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Unity Project_stelios1.CSharp.Plugins", "New Unity Project_stelios1.CSharp.Plugins.csproj", "{F75CB5DE-0AED-BEAB-C826-04B97606386E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Unity Project_stelios1.CSharp", "New Unity Project_stelios1.CSharp.csproj", "{9F205A71-993D-F567-874A-CE56E33A57D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Unity Project_stelios1.CSharp.Editor", "New Unity Project_stelios1.CSharp.Editor.csproj", "{7EC78953-9B80-747A-3AFA-4C3D4A012CCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F75CB5DE-0AED-BEAB-C826-04B97606386E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F75CB5DE-0AED-BEAB-C826-04B97606386E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F75CB5DE-0AED-BEAB-C826-04B97606386E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F75CB5DE-0AED-BEAB-C826-04B97606386E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F205A71-993D-F567-874A-CE56E33A57D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F205A71-993D-F567-874A-CE56E33A57D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F205A71-993D-F567-874A-CE56E33A57D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F205A71-993D-F567-874A-CE56E33A57D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EC78953-9B80-747A-3AFA-4C3D4A012CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EC78953-9B80-747A-3AFA-4C3D4A012CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EC78953-9B80-747A-3AFA-4C3D4A012CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EC78953-9B80-747A-3AFA-4C3D4A012CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

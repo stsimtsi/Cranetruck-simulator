@@ -1,0 +1,57 @@
+Base path: G:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-17952
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=4235 outsize=1085 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (69): unrecognized identifier 'UNITY_FOG_COORDS'
+  api=4 type=0 insize=3453 outsize=0 kw=WATER_REFRACTIVE ok=0
+Cmd: preprocess
+  insize=9924 outsize=9924 ok=1
+Cmd: preprocess
+  insize=1099 outsize=1249 ok=1
+Cmd: preprocess
+  insize=716 outsize=1044 ok=1
+Cmd: preprocess
+  insize=12915 outsize=2646 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (61): unrecognized identifier 'UNITY_FOG_COORDS'
+  api=4 type=0 insize=10284 outsize=0 kw=WATER_REFLECTIVE WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON ok=0
+Cmd: preprocess
+  insize=482 outsize=1230 ok=1
+Cmd: preprocess
+  insize=608 outsize=1010 ok=1
+Cmd: preprocess
+  insize=837 outsize=1401 ok=1
+Cmd: preprocess
+  insize=605 outsize=1177 ok=1
+Cmd: preprocess
+  insize=12063 outsize=2528 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (58): unrecognized identifier 'UNITY_FOG_COORDS'
+  api=4 type=0 insize=9555 outsize=0 kw=WATER_REFLECTIVE WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON ok=0
+Cmd: preprocess
+  insize=1878 outsize=596 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (30): unrecognized identifier 'UNITY_FOG_COORDS'
+  api=4 type=0 insize=1587 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=538 outsize=1285 ok=1
+Cmd: preprocess
+  insize=417 outsize=1218 ok=1
+Cmd: preprocess
+  insize=416 outsize=1217 ok=1
+Cmd: preprocess
+  insize=1013 outsize=1508 ok=1
+Cmd: preprocess
+  insize=10318 outsize=10318 ok=1
+Cmd: preprocess
+  insize=628 outsize=1277 ok=1
+Cmd: preprocess
+  insize=922 outsize=1164 ok=1
+Cmd: preprocess
+  insize=880 outsize=1108 ok=1
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+
+Quitting shader compiler process
